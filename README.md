@@ -1,2 +1,2 @@
-# JAVA-PROBLEMS
-Java Problems Solved
+# Java-Problems
+Solved problems in Java
